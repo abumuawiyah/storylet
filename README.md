@@ -1,2 +1,0 @@
-# storylet
-Created with CodeSandbox
